@@ -1,0 +1,562 @@
+
+
+
+
+
+@media screen and (max-width: 1366px) {
+
+.container.is {
+    max-width: 100%;
+}
+
+}
+
+
+/* стили для md-устройств */
+@media screen and (max-width: 1200px) {
+
+.slid-bls:before{
+	display: none;
+}
+
+.slid-bls:after{
+	display: none;
+}
+
+}
+
+/* стили для sm-устройств */
+@media screen and (max-width: 1068px) {
+
+nav.mt-mobile {
+    top: 194px;
+}
+
+.phone-bl {
+    width: 100%;
+    text-align: right;
+}
+
+}
+
+
+/* стили для sm-устройств */
+@media screen and (max-width: 1024px) {
+
+nav.mt-mobile {
+    top: 266px;
+}
+
+.buti-tit-is {
+    font-size: 22px;
+}
+
+.hed-text {
+    text-align: center;
+}
+
+.logo-img {
+    text-align: left;
+    width: 45%;
+    margin: 0;
+}
+
+.logo-bl {
+    margin-bottom: 60px;
+}
+
+.pay-bl span {
+    margin-right: 10px;
+    width: 100%;
+}
+
+.pay-bl {
+    width: 100%;
+}
+
+.map-wrap {
+    background-size: cover;
+}
+
+.phone-bl {
+    width: 100%;
+    text-align: center;
+}
+
+.hed-wrap {
+    justify-content: center;
+}
+
+.logo-bl {
+    width: 100%;
+}
+
+
+
+button.phone-but {
+    width: 100%;
+}
+
+.burger {
+}
+
+.burg-wrap {
+    position: absolute;
+    right: 60px;
+    top: 30px;
+}
+
+nav.mt-mobile {
+    top: 264px;
+}
+
+i.burger-close {
+    top: 261px;
+}
+
+.buti-tit {
+    font-size: 22px;
+}
+
+.buti-lic-logo {
+    width: 100%;
+}
+
+.buti-lic-text-bl {
+    width: 100%;
+}
+
+  
+}
+
+/* стили для sm-устройств */
+@media screen and (max-width: 992px) {
+
+.foot-logo {
+    width: 100%;
+    margin-bottom: 50px;
+}
+
+.studi-img {
+    display: none;
+}
+
+.studi-text-bl {
+    width: 100%;
+}
+
+.stydi-tit {
+    margin-left: 0;
+}
+
+ul.stydi-list {
+}
+
+ul.stydi-list li {
+    padding: 0 0 0 35px;
+}
+
+ul.stydi-list li:before {
+    left: 0;
+}
+
+
+.map-is {
+    position: relative;
+    width: 30%;
+}
+
+.map-is.is1 {
+    position: relative;
+    left:0;
+    top:0;
+}
+
+.map-is.is2 {
+    position: relative;
+    left:0;
+    top:0;
+}
+
+.map-is.is3 {
+    position: relative;
+    left:0;
+    top:0;
+}
+
+.map-is.is4 {
+    position: relative;
+    left:0;
+    top:0;
+}
+
+.map-is.is5 {
+    position: relative;
+    left:0;
+    top:0;
+}
+
+.map-is.is6 {
+    position: relative;
+    left:0;
+    top:0;
+}
+
+.map-is.is7 {
+    position: relative;
+    left:0;
+    top:0;
+}
+
+.map-is.is8 {
+    position: relative;
+    left:0;
+    top:0;
+}
+
+.map-is.is9 {
+    position: relative;
+    left:0;
+    top:0;
+}
+
+.map-is.is10 {
+    position: relative;
+    left:0;
+    top:0;
+}
+
+.map-is.is11 {
+    position: relative;
+    left:0;
+    top:0;
+}
+
+.map-is.is12 {
+    position: relative;
+    left:0;
+    top:0;
+}
+
+.map-wrap {
+    background-size: contain;
+    display: flex;
+    flex-wrap: wrap;
+    height: auto;
+    background: none;
+}
+
+.get-text-wrap {
+    margin: 0;
+}
+
+.doc-wrpa {
+    margin-top: 20px;
+}
+
+.doc-tit {
+    font-size: 42px;
+}
+
+.doc-gos:before {
+    display:none;
+}
+
+.slid-bls {
+    margin: 0 0 35px!important;
+}
+
+
+  
+}
+
+
+/* Ipad*/ 
+@media screen and (max-width: 768px) {
+
+.bute-but {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+.bute-but a {
+    margin-bottom: 20px;
+}
+
+.arrow-bl.slid.active {
+    flex-wrap: wrap;
+}
+
+.next-arrow {
+    display: none;
+}
+
+.prev-arrow {
+    display: none;
+}
+
+.yandex-text {
+    margin-bottom: 0;
+}
+
+.buti-partf-img {
+    width: 100%;
+}
+
+.buti-part-wrap {
+    justify-content: center;
+    width: 100%;
+    text-align: center;
+}
+
+.yandex-wrap {
+    margin-top: 0;
+}
+
+button.slid-but-is {
+    width: 95%;
+}
+
+}
+
+
+/* Ipad mini*/ 
+@media screen and (max-width: 640px) {
+
+.stydi-tit {
+    font-size: 32px;
+}
+
+ul.stydi-list li {
+    font-size: 22px;
+    margin-bottom: 30px;
+}
+
+ul.stydi-list li:before {
+    top: 4px;
+}
+
+a.buti-gos {
+    font-size: 27px;
+}
+
+.buti-part-text {
+    font-size: 26px;
+}
+
+.buti-but-tit {
+    width: 100%;
+    margin-bottom: 65px;
+}
+
+.buti-but-wrap {
+    flex-wrap: wrap;
+}
+
+button.buti-but-is {
+    width: 100%;
+    font-size: 24px;
+    height: auto;
+    padding: 20px;
+}
+
+.doc-img {
+    display: none;
+}
+
+.doc-text-bl {
+    width: 100%;
+}
+
+.gos-img {
+    margin-bottom: 10px;
+    text-align: center;
+}
+
+.doc-gos {
+    font-size: 18px;
+}
+
+.doc-text {
+    margin-bottom: 20px;
+    font-size: 18px;
+}
+
+.buti-prof-tit {
+    font-size: 32px;
+}
+
+.buti-prof-text {
+    font-size: 20px;
+    margin-bottom: 0px;
+}
+
+.buti-lic-tits {
+    font-size: 24px;
+    text-align: center;
+}
+
+.get-tit {
+    font-size: 32px;
+}
+
+.get-tits {
+    font-size: 25px;
+}
+
+.doc-tit {
+    font-size: 32px;
+    margin-bottom: 10px;
+}
+
+.yandex-tit {
+    font-size: 32px;
+}
+
+.slid-arrow-text {
+    font-size: 24px;
+}
+
+.bute-but {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+.bute-but a {
+    margin-bottom: 20px;
+    font-size: 17px;
+    width: 100%;
+    height: auto;
+    line-height: normal;
+    padding: 20px;
+}
+
+.arrow-bl.slid.active {
+    width: 95%;
+}
+
+.buti-lic-tit {
+    font-size: 44px;
+}
+
+.bute-but.is {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+.bute-but.is a {
+    margin-bottom: 10px;
+    width: 100%;
+}
+
+.foot-logo {
+    margin: 0 auto 10px;
+}
+
+.foot-adres {
+    text-align: center;
+    margin-bottom: 30px;
+}
+
+.soc-foot {
+    margin: 0 auto;
+}
+
+a.phobe-foot {
+    font-size: 18px;
+    margin-bottom: 20px;
+}
+
+span.foot-addres {
+    margin-bottom: 20px;
+    font-size: 18px;
+}
+
+ul.fott-menu-is li a {
+    width: 100%;
+    display: flex;
+    margin: 17px;
+}
+
+nav {
+    width: 100%;
+}
+
+ul.fott-menu-is {
+    justify-content: center;
+}
+
+li {
+}
+
+ul.fott-menu-is li {
+    width: 100%;
+}
+
+}
+
+/* Galaxy S8+*/ 
+@media screen and (max-width: 480px) {
+
+.buti-lic-tit {
+    font-size: 32px;
+    text-align: center;
+    margin-bottom: 15px;
+}
+
+.buti-lic-tits {
+    font-size: 17px;
+}
+
+.buti-lic-text-is {
+    font-size: 18px;
+    text-align: center;
+}
+
+.buti-lic-wrap {
+    padding: 10px 0;
+    margin-bottom: 10px;
+}
+
+
+  
+}
+
+/* Galaxy*/ 
+@media screen and (max-width: 415px) {
+  
+}
+
+
+/* Iphone 6.7.8 */ 
+@media screen and (max-width: 375px) {
+
+.map-is {
+    width: 100%;
+}
+
+.slid-bl-is {
+    width: 100%;
+    text-align: center;
+    margin: 0 auto;
+    padding: 20px;
+}
+
+.container.is {
+    max-width: 100%;
+    padding: 0 5px;
+}
+
+.container{
+	min-width: auto;
+}
+
+}
+
+/* Iphone 5.5SE */ 
+@media screen and (max-width: 320px) {
+
+}
